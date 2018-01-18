@@ -1,0 +1,12 @@
+com\bis\inventory\entity\Inventory.class
+com\bis\inventory\services\InventoryServiceImpl.class
+com\bis\inventory\dao\InventoryDAO.class
+com\bis\inventory\exception\DeleteFailedException.class
+com\bis\inventory\rest\controller\InventoryController.class
+com\bis\inventory\exception\RetrieveFailedException.class
+com\bis\inventory\rest\dto\ResponseDTO.class
+com\bis\inventory\services\InventoryService.class
+com\bis\inventory\exception\InsertFailedException.class
+com\bis\inventory\rest\dto\StatusDTO.class
+com\bis\inventory\exception\UpdateFailedException.class
+com\bis\inventory\dao\InventoryDAOImpl.class

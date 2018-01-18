@@ -1,0 +1,12 @@
+C:\OfferprocessingWeb\source\inventory\src\main\java\com\bis\inventory\services\InventoryServiceImpl.java
+C:\OfferprocessingWeb\source\inventory\src\main\java\com\bis\inventory\exception\InsertFailedException.java
+C:\OfferprocessingWeb\source\inventory\src\main\java\com\bis\inventory\rest\dto\StatusDTO.java
+C:\OfferprocessingWeb\source\inventory\src\main\java\com\bis\inventory\exception\RetrieveFailedException.java
+C:\OfferprocessingWeb\source\inventory\src\main\java\com\bis\inventory\services\InventoryService.java
+C:\OfferprocessingWeb\source\inventory\src\main\java\com\bis\inventory\dao\InventoryDAO.java
+C:\OfferprocessingWeb\source\inventory\src\main\java\com\bis\inventory\rest\dto\ResponseDTO.java
+C:\OfferprocessingWeb\source\inventory\src\main\java\com\bis\inventory\exception\UpdateFailedException.java
+C:\OfferprocessingWeb\source\inventory\src\main\java\com\bis\inventory\entity\Inventory.java
+C:\OfferprocessingWeb\source\inventory\src\main\java\com\bis\inventory\dao\InventoryDAOImpl.java
+C:\OfferprocessingWeb\source\inventory\src\main\java\com\bis\inventory\exception\DeleteFailedException.java
+C:\OfferprocessingWeb\source\inventory\src\main\java\com\bis\inventory\rest\controller\InventoryController.java
